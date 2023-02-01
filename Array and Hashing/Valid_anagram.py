@@ -12,3 +12,6 @@ class Solution:
         if countS != countT: # checking if dictionary has same keys and values
                 return False
         return True
+
+    #space Complexity : o(n)
+    #time Complexity : o(n)
